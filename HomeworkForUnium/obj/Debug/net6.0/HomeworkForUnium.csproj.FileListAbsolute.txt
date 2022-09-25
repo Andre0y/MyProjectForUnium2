@@ -1,0 +1,15 @@
+D:\Apps\VS\Unium\HomeworkForUnium\bin\Debug\net6.0\HomeworkForUnium.exe
+D:\Apps\VS\Unium\HomeworkForUnium\bin\Debug\net6.0\HomeworkForUnium.deps.json
+D:\Apps\VS\Unium\HomeworkForUnium\bin\Debug\net6.0\HomeworkForUnium.runtimeconfig.json
+D:\Apps\VS\Unium\HomeworkForUnium\bin\Debug\net6.0\HomeworkForUnium.dll
+D:\Apps\VS\Unium\HomeworkForUnium\bin\Debug\net6.0\HomeworkForUnium.pdb
+D:\Apps\VS\Unium\HomeworkForUnium\obj\Debug\net6.0\HomeworkForUnium.csproj.AssemblyReference.cache
+D:\Apps\VS\Unium\HomeworkForUnium\obj\Debug\net6.0\HomeworkForUnium.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apps\VS\Unium\HomeworkForUnium\obj\Debug\net6.0\HomeworkForUnium.AssemblyInfoInputs.cache
+D:\Apps\VS\Unium\HomeworkForUnium\obj\Debug\net6.0\HomeworkForUnium.AssemblyInfo.cs
+D:\Apps\VS\Unium\HomeworkForUnium\obj\Debug\net6.0\HomeworkForUnium.csproj.CoreCompileInputs.cache
+D:\Apps\VS\Unium\HomeworkForUnium\obj\Debug\net6.0\HomeworkForUnium.dll
+D:\Apps\VS\Unium\HomeworkForUnium\obj\Debug\net6.0\refint\HomeworkForUnium.dll
+D:\Apps\VS\Unium\HomeworkForUnium\obj\Debug\net6.0\HomeworkForUnium.pdb
+D:\Apps\VS\Unium\HomeworkForUnium\obj\Debug\net6.0\HomeworkForUnium.genruntimeconfig.cache
+D:\Apps\VS\Unium\HomeworkForUnium\obj\Debug\net6.0\ref\HomeworkForUnium.dll
